@@ -1,6 +1,10 @@
 // Cerulean 4.3.1
 // Bootswatch
 
+// Variables ===================================================================
+
+$web-font-path: "https://fonts.googleapis.com/css?family=Ubuntu:400,700" !default;
+@import url($web-font-path);
 
 @mixin btn-shadow($color){
   @include gradient-y-three-colors(lighten($color, 8%), $color, 60%, darken($color, 4%));

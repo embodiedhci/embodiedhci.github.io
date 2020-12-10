@@ -16,7 +16,7 @@ footer:
     url: # link if any
     description: # tool tip for your url
     bio: # short bio
-    address: # location
+    address: USA # location
   - social:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

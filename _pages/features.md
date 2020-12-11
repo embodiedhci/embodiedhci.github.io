@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Features"
-permalink: /features/
+title: "The Team"
+permalink: /team/
 ---
 
-Write your features here.
+Diana is a product of a collaborations between Brandeis University, Colorado State University, and the University of Florida.

@@ -22,6 +22,7 @@ Diana is a product of a collaboration between Brandeis University, Colorado Stat
 * David McNeely-White (Colorado State)
 * Pradyumna Narayana (Colorado State)
 * Dhruva Patil (Colorado State)
+* Erik Ridd (Colorado State)
 * Kyeongmin Rim (Brandeis)
 * Joe Strout (Colorado State)
 * Heting Wang (Colorado State)

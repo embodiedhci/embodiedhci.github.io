@@ -8,7 +8,7 @@ Diana is a product of a collaborations between Brandeis University, Colorado Sta
 
 # Faculty
 
-| | | | | | |
+| <img src="../assets/images/headshots/pustejovsky.png" width="320"> | | | | | |
 |-|-|-|-|-|-|
 | James Pustejovsky (Brandeis) | Nikhil Krishnaswamy (Colorado State) | Ross Beveridge (Colorado State) | Francisco R. Ortega (Colorado State) | Lisa Daunhauer (Colorado State) | Jaime Ruiz (Florida)
 

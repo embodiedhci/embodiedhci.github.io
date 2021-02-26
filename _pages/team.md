@@ -22,6 +22,7 @@ Diana and her spinoffs are products of a collaboration between Brandeis Universi
 * David McNeely-White (Colorado State)
 * Pradyumna Narayana (Colorado State)
 * Dhruva Patil (Colorado State)
+* Aditya Raikwar (Colorado State)
 * Erik Ridd (Colorado State)
 * Kyeongmin Rim (Brandeis)
 * Joe Strout (Colorado State)

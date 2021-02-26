@@ -4,7 +4,7 @@ title: "The Team"
 permalink: /team/
 ---
 
-Diana is a product of a collaboration between Brandeis University, Colorado State University, and the University of Florida.
+Diana and her spinoffs are products of a collaboration between Brandeis University, Colorado State University, and the University of Florida.  This work was funded by the Defense Advanced Projects Agency (DARPA) under the Communicating with Computers (CwC) program.
 
 # Faculty
 
